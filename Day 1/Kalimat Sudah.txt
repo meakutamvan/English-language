@@ -1,0 +1,17 @@
+=========Kalimat Sudah=========
+    [   S + has/have + V3   ]
+
+>>>>menggunakan kata kerja<<<<
+example: 
+        i have studied
+        we has studied
+        he has slept
+>>>>======================<<<<
+
+>>>>tanpa kata kerja<<<<
+[   S + have/has + been + b.kk]
+example: 
+        i have been here
+        we has been here sice morning
+        he has been here for two hours
+>>>>======================<<<<

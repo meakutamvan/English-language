@@ -1,0 +1,14 @@
+=======Kalimat Dasar=======
+    [   S + V1 + s/es   ]
+
+>>>>menggunakan kata kerja<<<<
+example: 
+        i study
+        he works
+>>>>======================<<<<
+
+>>>>tanpa kata kerja<<<<
+example: 
+        i am happy
+        She is beautiful
+>>>>================<<<<
